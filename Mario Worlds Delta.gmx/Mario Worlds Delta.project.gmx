@@ -516,7 +516,6 @@
       <sprites name="Item Blocks">
         <sprite>sprites\spr_qblock</sprite>
         <sprite>sprites\spr_qblock_empty</sprite>
-        <sprite>sprites\spr_qblock_empty_pensive</sprite>
         <sprite>sprites\spr_qblock_hidden</sprite>
         <sprite>sprites\spr_qblock_winged</sprite>
       </sprites>
@@ -2409,15 +2408,23 @@
     <room>rooms\rm_title</room>
     <room>rooms\rm_worldmap</room>
     <rooms name="Levels">
-      <rooms name="Level 1">
-        <room>rooms\rm_level_1a</room>
-        <room>rooms\rm_level_1b</room>
+      <rooms name="base mwd levels">
+        <rooms name="Level 3">
+          <room>rooms\rm_level_3</room>
+        </rooms>
+        <rooms name="Level 1">
+          <room>rooms\rm_level_1a</room>
+          <room>rooms\rm_level_1b</room>
+        </rooms>
+        <rooms name="Level 2">
+          <room>rooms\rm_level_2a</room>
+        </rooms>
       </rooms>
-      <rooms name="Level 2">
-        <room>rooms\rm_level_2a</room>
-      </rooms>
-      <rooms name="Level 3">
-        <room>rooms\rm_level_3</room>
+      <rooms name="World 1">
+        <rooms name="Level 1">
+          <room>rooms\rm_level1</room>
+          <room>rooms\rm_level1b</room>
+        </rooms>
       </rooms>
     </rooms>
     <rooms name="Special Rooms">

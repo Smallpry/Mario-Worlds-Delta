@@ -102,6 +102,7 @@
     <instance objName="obj_tilehider" x="112" y="368" name="inst_03019430" locked="0" code="" scaleX="5" scaleY="3" colour="4294967295" rotation="0"/>
     <instance objName="obj_tilehider" x="304" y="416" name="inst_6737CF9D" locked="0" code="" scaleX="8" scaleY="3" colour="4294967295" rotation="0"/>
     <instance objName="obj_tilehider" x="656" y="384" name="inst_0444E2F1" locked="0" code="" scaleX="10" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="obj_modifier_star" x="352" y="352" name="inst_8DDA3392" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tls_ground_swampland" x="80" y="416" w="16" h="32" xo="128" yo="176" id="10025533" name="inst_61785F55" depth="15" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

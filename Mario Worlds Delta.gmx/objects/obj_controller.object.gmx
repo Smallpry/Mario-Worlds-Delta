@@ -38,12 +38,12 @@ init_shockwave();
 last_room = noone;
 
 //Remember HUD Type
-hud_type = 0;
+hud_type = 1;
 
 //How the screen is fading
 //0: From black
 //1: To black
-mode = 0;
+mode = 1;
 
 //How much the screen is faded
 fade = 0;
